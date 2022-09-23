@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "ignoreStuff/reportWebVitals.ts", "ignoreStuff/setupTests.ts"  ]
 }
