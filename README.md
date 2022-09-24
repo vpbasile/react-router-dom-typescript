@@ -1,11 +1,6 @@
-# Resume Single-Page App
+# React Router Dom Typescript
 
-Content made interchangeable with JSON files: (real content and dummy content)
-Form made interchangeable with JSX templates: Print, Black, DarkBlue
-
-using [Template: react-router-dom-typescript](https://www.npmjs.com/package/cra-template-react-router-dom-typescript).
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using [Template: react-router-dom-typescript](https://www.npmjs.com/package/cra-template-react-router-dom-typescript).
 
 ## Available Scripts
 
